@@ -1,12 +1,15 @@
 ## Le jeu du 7 se joue à deux joueurs avec deux dés. Les joueurs jouent à tour de rôle, 5 tours chacun. On a donc 1er tour joueur A, 1er tour joueur B, 2e tour joueur A, etc.
 
-## À chaque tour, le joueur lance les dés.
+## À chaque tour, le joueur lance les deux dés qui sont additionnés.
 
 ##    S'il fait 7, il marque 7 points puis s'arrête ;
 ##    sinon il peut choisir de relancer les dés.
 ##        À chaque relance,
-##            si le joueur fait 7, son tour est terminé et il ne marque aucun point,
-##            sinon il ajoute au score du tour le résultat du lancer. S'il décide de s'arrêter, il ajoute le score du tour à son score total.from random import *
+##            Il peut relancer autant de fois qu'il le veuille, à part s'il tombe sur un 7.
+##            Si le joueur fait 7, son tour est terminé et il ne marque aucun point,
+##            S'il relance, une nouvelle somme de deux dés sont proposés.
+##            S'il décide de s'arrêter, il ajoute le score de ces deux lancés à son score total.
+from random import *
 
 def jet_des():
     somme = randint(1, 6) + randint(1, 6)
