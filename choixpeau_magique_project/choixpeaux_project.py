@@ -21,7 +21,7 @@ def test_nombre_eleve():
 
 
 
-# QUESTION 2
+# FONCTION  2
 
 def eleves(tab):
      """
@@ -48,7 +48,7 @@ def test_eleves():
 
 
 
-# QUESTION 3
+# FONCTION  3
 def lecture_reponses(file):
      """
      Retourne le tableau des scores d'un fichier
@@ -94,7 +94,7 @@ from random import *
 
 
 
-# QUESTION 4
+# FONCTION  4
 reponses = ["Harry Potter", 10, 5, 8, 1, "Cedric Diggory", 6, 7, 9, 4, "Drago Malefoy", 1, 3, 2, 10, 'Amel', 10, 7, 10, 8]
 
 def maison(tab, indice):
@@ -127,7 +127,7 @@ def maison(tab, indice):
     else :
         return maison_possibles[randint(0, len(maison_possibles)-1)]
 
-# QUESTION 5
+# FONCTION  5
 
 def repartition(tab_reponses):
      """
@@ -166,7 +166,7 @@ def test_repartition():
      print("Test de la fonction repartition OKK!!!!")
 
 
-# QUESTION 6
+# FONCTION  6
 def nb_erreurs(dic1, dic2):
      '''
      Fonction qui retourne le nombre de differences sur 2 differences
@@ -237,7 +237,7 @@ attribuer une maison différente si les scores sont identiques.
 print("Il y a ",pourcentage, "% d'erreurs dans le fichier.")
 
 
-# QUESTION 7
+# FONCTION  7
 
 def aleatoire_maison(path):
  """Fonction qui retourne un dictionnaire qui attribue au hasard pour chaque élève une maison parmi les 4 de Poudlard."""
