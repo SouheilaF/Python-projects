@@ -11,8 +11,11 @@
 Un des professeurs de Poudlard propose alors un questionnaire à 4 questions seulement :
 
 1 : À quel point aimez-vous prendre des risques pour défendre une cause juste ?
+
 2 : Comment évaluez-vous votre curiosité intellectuelle et votre soif d’apprendre ?
+
 3 : Quelle importance accordez-vous à la loyauté envers vos amis et votre famille ?
+
 4 : À quel point êtes-vous ambitieux et déterminé à atteindre vos objectifs personnels ?
 
 ## Deuxième projet :
