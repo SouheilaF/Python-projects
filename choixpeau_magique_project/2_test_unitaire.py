@@ -1,17 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # SAÉ S1.02 : Le nouveau choixpeau pas magique de Poudlard
-# 
-# ## Partie tests unitaires
-
-# Elèves : Souheila FRIH; Amel BENAMMAR. 
-# 
-# Groupe : Cérès.
 
 # ## IMPORTATION DE BIBLIOTHEQUES
-
-# In[1]:
 
 
 from math import *
@@ -23,8 +11,6 @@ from s102 import *
 
 
 # # VARIABLES UTILES
-
-# In[4]:
 
 
 tableau_Pikaness = [9, 10, 8, 10, 6, 2, 2, 6, 5, 1]
