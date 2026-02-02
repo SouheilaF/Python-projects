@@ -19,14 +19,23 @@ Un des professeurs de Poudlard propose alors un questionnaire à 4 questions seu
 Cette fois-ci, 10 questions sont proposées. On va 
 
 1 : À quel point aimez-vous prendre des risques pour défendre une cause juste ?
+
 2 : Comment évaluez-vous votre curiosité intellectuelle et votre soif d’apprendre ?
+
 3 : Quelle importance accordez-vous à la loyauté envers vos amis et votre famille ?
+
 4 : À quel point êtes-vous ambitieux et déterminé à atteindre vos objectifs personnels ?
+
 5 : Comment réagissez-vous face à une injustice ? (1 = indifférence, 10 = action immédiate)
+
 6 : À quel point aimez-vous résoudre des énigmes ou des problèmes complexes ?
+
 7 : Quelle est votre capacité à travailler en équipe et à encourager les autres ?
+
 8 : À quel point êtes-vous prêt à utiliser la ruse pour obtenir ce que vous voulez ?
+
 9 : Comment gérez-vous les échecs ou les critiques ? (1 = abandon, 10 = persévérance)
+
 10 : Quelle est votre préférence : être admiré pour vos réalisations ou pour votre gentillesse ? (1 = réalisations, 10 = gentillesse)
 
 Grâce à cela, nous avons ensuite des réponses stockés dans un fichier. Chaque fonction est un avancement afin de faire une répartition des élèves.
