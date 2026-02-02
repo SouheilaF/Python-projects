@@ -1,7 +1,7 @@
 
 Le but de ce projet est de répartir les élèves selon leur réponses aux questions. 
 
-# Gryffondor : si l'élève privilégiait le courage, la bravoure et la défense des valeurs,
+## Gryffondor : si l'élève privilégiait le courage, la bravoure et la défense des valeurs,
 # Serdaigle : si l'élève valorisait l'intelligence, la sagesse et la créativité,
 # Poufsouffle : si l'élève mettait en avant la loyauté, le travail acharné et la bienveillance,
 # Serpentard : si l'élève accordait de l’importance à l’ambition, la ruse et la détermination.
