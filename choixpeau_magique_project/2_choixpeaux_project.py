@@ -1,17 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # SAÉ S1.02 : Le nouveau choixpeau pas magique de Poudlard !
-# 
-# ## Partie fonctions.
-
-# Elèves : Souheila FRIH; Amel BENAMMAR. 
-# 
-# Groupe : Cérès.
 
 # ## IMPORTATION DE BIBLIOTHEQUES
 
-# In[15]:
 
 
 from math import *
@@ -21,7 +11,6 @@ from s101 import nb_erreurs
 
 # # VARIABLES UTILES
 
-# In[16]:
 
 
 rep1_Lisa=[7, 4, 8, 5, 7, 10, 3, 7, 8, 5]
@@ -65,7 +54,7 @@ ref_1 =  { "house" : "TEST_1",
         "answer" : [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
 
 
-# ciblée question 9
+
 retourne_gryffondor = [{
         "house": "Serpentard", 
         "answer": [4, 6, 5, 9, 1, 7, 3, 10, 9, 8]
