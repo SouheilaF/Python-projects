@@ -1,4 +1,5 @@
-# QUESTION 1
+
+# FONCTION 1
 
 def nombre_eleve(tab):
      """
